@@ -29,7 +29,6 @@ import h5py
 import tensorflow as tf
 import keras
 from keras.preprocessing.image import ImageDataGenerator
-from keras.applications import resnet
 from keras.models import Sequential
 import keras.layers as layers
 from keras.utils.np_utils import to_categorical
